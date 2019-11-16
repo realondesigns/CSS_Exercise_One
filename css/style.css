@@ -7,17 +7,17 @@ nav {
   height: 100px;
   margin-top: -10px;
   position: fixed;
-  width: 100%;
+  width: 65%;
 
 
 section {
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
 }
 
 h1 {
   font-family sans-serif;
-  font-size: 2em;
+  font-size: 5em;
 }
 
 .example, h3 {
@@ -34,3 +34,10 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+
+.feature {
+  background-color: pink;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
